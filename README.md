@@ -11,9 +11,7 @@ En **dsLab** somos una comunidad de usuarios de R que promueve el intercambio de
 
  Nuestra estrategia es aprovechar recursos existentes (foros en línea, cursos gratuitos, libros online, datos públicos, etc.) y usar la metodología de colaboración [pair programming](https://en.wikipedia.org/wiki/Pair_programming).
  
-|  . |
-|-------------------------------------------------------------------------------:|
-| _En **dsLab** todos tienen algo que enseñar y todos tienen algo por aprender._ |
+>  _En **dsLab** todos tienen algo que enseñar y todos tienen algo por aprender._
 
 
 **dsLab** esta inspirado en las comunidades de software libre, en particular la comunidad de R. Por esto es importante que uno de los objetivos sea participar de esta comunidad que cada vez crece mas y mas al rededor del mundo. 
