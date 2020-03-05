@@ -23,3 +23,11 @@ En **dsLab** somos una comunidad de usuarios de R que promueve el intercambio de
 - The freedom to redistribute copies so you can help your neighbour (freedom 2).
 
 - The freedom to improve the program, and release your improvements to the public, so that the whole community benefits. (freedom 3).
+
+# Reference
+
+- Encuesta multiproposito de Bogotá
+http://www.sdp.gov.co/gestion-estudios-estrategicos/estudios-macro/encuesta-multiproposito/encuesta-multiproposito-2017
+
+- R4DS https://r4ds.had.co.nz/
+- R4DS en español https://es.r4ds.hadley.nz/
